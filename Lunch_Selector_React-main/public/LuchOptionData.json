@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "日式豬排",
+    "shopName": "西湖豚勝日式豬排專賣",
+    "price": "110",
+    "rating": 3.5,
+    "type": "日式"
+  },
+  {
+    "id": 2,
+    "name": "牛排",
+    "shopName": "馨光牛排",
+    "price": "140",
+    "rating": 3.7,
+    "type": "美式"
+  },
+  {
+    "id": 3,
+    "name": "烤肉飯",
+    "shopName": "有信",
+    "price": "110",
+    "rating": 5,
+    "type": "飯食"
+  },
+  {
+    "id": 4,
+    "name": "韓式拌飯",
+    "shopName": "裴老師家常飯",
+    "price": "150",
+    "rating": 5,
+    "type": "韓式"
+  },
+  {
+    "id": 5,
+    "name": "唐揚雞飯",
+    "shopName": "熾騰日式燒丼專賣店",
+    "price": "130",
+    "rating": 5,
+    "type": "飯食"
+  },
+  {
+    "id": 6,
+    "name": "蛤蜊嫩豆腐鍋",
+    "shopName": "李家韓式料理",
+    "price": "140",
+    "rating": 4,
+    "type": "韓式"
+  },
+  {
+    "id": 7,
+    "name": "羊腩肉販",
+    "shopName": "印度料理",
+    "price": "190",
+    "rating": 4,
+    "type": "異國料理"
+  },
+  {
+    "id": 8,
+    "name": "里肌豬排定食",
+    "shopName": "西湖豚勝日式豬排專賣",
+    "price": "140",
+    "rating": 4,
+    "type": "日式"
+  },
+  {
+    "id": 9,
+    "name": "咖哩里肌蓋飯",
+    "shopName": "西湖豚勝日式豬排專賣",
+    "price": "140",
+    "rating": 4,
+    "type": "日式"
+  },
+  {
+    "id": 10,
+    "name": "待確認",
+    "shopName": "江太日式料理",
+    "price": "140",
+    "rating": 4,
+    "type": "日式"
+  },
+  {
+    "id": 11,
+    "name": "櫻花蝦炒飯",
+    "shopName": "炒小北鼻",
+    "price": "100(單點)",
+    "rating": 4,
+    "type": "飯食"
+  },
+  {
+    "id": 12,
+    "name": "培根炒飯",
+    "shopName": "炒小北鼻",
+    "price": "90(單點)",
+    "rating": 4,
+    "type": "飯食"
+  },
+  {
+    "id": 13,
+    "name": "清燉牛肉麵",
+    "shopName": "二哥手工現點現做",
+    "price": "150",
+    "rating": 4,
+    "type": "麵食"
+  },
+  {
+    "id": 14,
+    "name": "健康餐盒",
+    "shopName": "待確認",
+    "price": "150",
+    "rating": 4,
+    "type": "麵食"
+  },
+  {
+    "id": 15,
+    "name": "水餃10顆",
+    "shopName": "濠記水餃",
+    "price": "70",
+    "rating": 4,
+    "type": "麵食"
+  },
+  {
+    "id": 16,
+    "name": "火雞肉飯便當",
+    "shopName": "包子&ME 嘉義火雞肉飯",
+    "price": "100",
+    "rating": 4,
+    "type": "飯食"
+  }
+]
